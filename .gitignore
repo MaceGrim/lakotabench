@@ -1,0 +1,16 @@
+# Regenerable / governed artifacts — never committed.
+raw/
+data/
+results/
+presentations/
+
+# Local project + planning docs (not part of the public workflow).
+CLAUDE.md
+RESEARCH_PLAN.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+test_scripts/
